@@ -1,0 +1,12 @@
+
+myGame.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chao
+  rotate: false
+  xy: 1, 1
+  size: 824, 130
+  orig: 824, 130
+  offset: 0, 0
+  index: -1

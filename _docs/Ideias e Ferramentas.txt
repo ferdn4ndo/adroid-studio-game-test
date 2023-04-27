@@ -1,0 +1,21 @@
+Ideias Jogo:
+
+	Personagem Principal é um duente, a história do jogo retrata os 
+	conflitos psicodélicos e emocionais do personagem, onde o mesmo 
+	deve derrotar seus medos e psicodelias (Seus chefões).
+	
+	Um dos elementos necessários para o personagem serão cogumelos.	
+	
+	O estilo pricipal do jogo ainda está por ser definido (será em 2D)
+		- Estilo 8 bits ou mais artístico;
+		- Muitas Cores;
+
+
+Tools:
+
+-LibGDX: Biblioteca Java para desenvolvimento multiplataforma(Utilizando IntelliJ IDE)
+	- Box2D: Biblioteca para emulação de física 2d,colisao e etc
+	- Overlap2D: Editor para usar imagens, animações , fazer fases e etc.
+	- Spine e Sprite Animation: Tecnica animação 2D
+
+
